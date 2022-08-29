@@ -19,5 +19,5 @@ pip install -r requirements.txt
 Fill in all variables related to the Discord Bot
 
 ### Create Google Docs token
-Place your ```key.json``` file in the same directory after creating a PythonSheets Google Service account
-Sample table template [HERE](https://docs.google.com/spreadsheets/d/17RrTJ7xwhjuT_6WigXPcPudfp5fKl1fONUcB0vuSmdo/edit?usp=sharing)
+Place your ```key.json``` file in the same directory after creating a PythonSheets Google Service account.
+[Sample table template](https://docs.google.com/spreadsheets/d/17RrTJ7xwhjuT_6WigXPcPudfp5fKl1fONUcB0vuSmdo/edit?usp=sharing)
