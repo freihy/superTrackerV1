@@ -1,0 +1,9 @@
+{
+	"TOKEN": "discord token here",
+	"APP_ID": "discord app id here",
+	"GUILD_ID": "discord guild id here",
+	"PREFIX": "==",
+	"MINS": "8",
+	"CHANNEL_TO_SEND": "discord channel id to send updates here",
+	"TO_PING": "discord user to ping here"
+}

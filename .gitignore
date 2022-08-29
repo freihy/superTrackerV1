@@ -132,4 +132,3 @@ dmypy.json
 __pycache__
 .DS_Store
 key.json
-config.json
